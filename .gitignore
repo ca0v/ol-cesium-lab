@@ -1,2 +1,11 @@
 node_modules
-assets
+assets/ol-cesium-v1.33/apidoc
+assets/ol-cesium-v1.33/Cesium
+assets/ol-cesium-v1.33/es6doc
+assets/ol-cesium-v1.33/examples
+assets/ol-cesium-v1.33/package
+assets/ol-cesium-v1.33/CHANGES.md
+assets/ol-cesium-v1.33/exports.js
+assets/ol-cesium-v1.33/CesiumUnminified/ThirdParty
+assets/ol-cesium-v1.33/CesiumUnminified/Widgets
+assets/ol-cesium-v1.33/CesiumUnminified/Assets/Textures
